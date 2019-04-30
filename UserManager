@@ -1,0 +1,25 @@
+NAME 
+
+	useradd & delete    : add and delete user
+        groupadd & delete   : add group and delete
+        passwd & usermod -1 : chande information user
+	usermod -g          : add specific user to specific group
+
+SYNOPSIS 
+
+        useradd[USERNAME]
+        userdel[USERNAME]
+        groupadd[GROUPNAME]
+        groupdel[GROUPNAME]
+        passwd[PASSWORD]
+        usermod -l[USERNAME]
+        usermod -g[USERNAME]
+
+DESCRIPTION
+
+	This task make  number of instructions : adduser, deleteuser,
+        addgroup and can delete it,
+        change user information,
+        and add specific user to specific group
+
+

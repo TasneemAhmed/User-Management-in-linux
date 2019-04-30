@@ -1,0 +1,30 @@
+                              User Manager
+
+1- Add user
+   -Enter 1
+   -Enter the username of the new user
+
+2- Delete user
+   -Enter 2
+   -Enter the username of the user you want to delete
+
+3- Add group
+   -Enter 3
+   -Enter the name of the new group
+
+4- Delete group
+   -Enter 4
+   -Enter the name of the group you want to delete
+
+5- Change user information
+   -Enter 5
+   -Enter the username of the user you want to change its information
+   -Enter 1 to change the password or Enter 2 to change the username
+   -If you entered 1: enter the new password of the user then confirm it
+   -If you entered 2: enter the new username then the old username of the user
+
+6- Assign user to a specific group
+   -Enter 6
+   -Enter the username of the user
+   -Enter the name of the group you want to add the user in it
+
